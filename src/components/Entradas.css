@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap");
+
+.main-central {
+  width: 80%;
+  margin: auto;
+  font-size: 1.2rem;
+  text-align: center;
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.main-central button {
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-family: "Lexend Deca", sans-serif;
+}
